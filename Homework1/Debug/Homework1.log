@@ -1,0 +1,10 @@
+﻿  Homework_1.cpp
+E:\TTC\2nCurs\Gama develpment\Homework1\Homework_1.h(17,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\TTC\2nCurs\Gama develpment\Homework1\Homework_1.h(134): message : see reference to class template instantiation 'Vec3<TYPE>' being compiled
+E:\TTC\2nCurs\Gama develpment\Homework1\Homework_1.h(17,18): error C2143: syntax error: missing ',' before '<'
+E:\TTC\2nCurs\Gama develpment\Homework1\Homework_1.h(19,13): error C3861: 'v': identifier not found
+E:\TTC\2nCurs\Gama develpment\Homework1\Homework_1.h(20,13): error C3861: 'v': identifier not found
+E:\TTC\2nCurs\Gama develpment\Homework1\Homework_1.h(21,13): error C3861: 'v': identifier not found
+E:\TTC\2nCurs\Gama develpment\Homework1\Homework_1.h(43,13): error C2760: syntax error: unexpected token 'identifier', expected ';'
+E:\TTC\2nCurs\Gama develpment\Homework1\Homework_1.h(53,13): error C2760: syntax error: unexpected token 'identifier', expected ';'
+E:\TTC\2nCurs\Gama develpment\Homework1\Homework_1.h(68,3): error C2760: syntax error: unexpected token 'return', expected ';'
